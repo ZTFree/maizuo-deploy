@@ -1,0 +1,1 @@
+import{i as t}from"./request-8cf98847.js";const i=()=>t.get("",{headers:{"X-Host":"mall.film-ticket.city.list"}}),s=()=>t.get("",{headers:{"X-Host":"mall.film-ticket.city.locate"}});export{i as a,s as g};
